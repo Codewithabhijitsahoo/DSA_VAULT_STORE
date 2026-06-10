@@ -12,3 +12,4 @@ class Solution:
             return [seen[target - num], i]
           seen[num] = i
         return []
+        # updated comment
